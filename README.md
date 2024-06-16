@@ -87,3 +87,5 @@ chmod +x ./PINGPONG && ./PINGPONG --key <KEY>
 > çözersem veya çözersek bu repoda birleştiririz.
 
 > Bu node'u artık tüm linux sunucularınızda maliyetsiz bir şekilde çalıştırabilirsiniz.
+
+> [Tokenomics](https://pingpong.discourse.group/t/pingpong-tokenomics-design-proposal-v0-1-0/21)
