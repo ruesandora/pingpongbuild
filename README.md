@@ -30,6 +30,9 @@
 
 # pingpongu yüklüyoruz
 wget https://pingpong-build.s3.ap-southeast-1.amazonaws.com/linux/latest/PINGPONG
+
+# Eğer üstteki uzun sürerse alternatif link ile deneyin
+http://135.181.28.135:8080/downloads/PINGPONG
 ```
 
 #
